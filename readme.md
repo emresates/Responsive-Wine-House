@@ -6,5 +6,5 @@
 
 ### There are buttons on the right and left of the page. The page can also be changed by pressing the buttons instead of scrolling. 
 
-https://user-images.githubusercontent.com/84937009/198677142-a4d33387-49fc-4860-b4ca-bcee0043f815.mp4
+https://user-images.githubusercontent.com/84937009/198682643-43a17701-5f1c-498f-8839-95b9201329e3.mp4
 
